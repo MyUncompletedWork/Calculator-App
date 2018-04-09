@@ -1,0 +1,9 @@
+.keys{
+  width: 25%;
+  margin: 10px 0;
+  height:auto;
+  /* border: 1px solid black; */
+  text-align: center;
+  display: inline-block;
+  cursor: pointer;
+}
